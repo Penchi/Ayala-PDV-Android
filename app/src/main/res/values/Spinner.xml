@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="campos_array">
+        <item>Ninguno</item>
+        <item>Nombre</item>
+        <item>Distribuidor</item>
+        <item>Existencia</item>
+        <item>Precio</item>
+        <item>Origen</item>
+        <item>ExistenciaMin</item>
+    </string-array>
+</resources>

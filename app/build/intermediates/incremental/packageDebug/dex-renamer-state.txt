@@ -1,0 +1,7 @@
+#Thu Nov 24 00:41:00 MST 2016
+base.0=C\:\\Users\\orlan\\Desktop\\5to Semestre\\apds\\Ayala PDV Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6d0f772b46259b5f4c8fe316ef036b4e2de1c0e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\orlan\\Desktop\\5to Semestre\\apds\\Ayala PDV Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14c910ff68700fdf7f9e62ce6f8b9537b74c4a31\\classes.dex
+base.1=C\:\\Users\\orlan\\Desktop\\5to Semestre\\apds\\Ayala PDV Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_14c910ff68700fdf7f9e62ce6f8b9537b74c4a31
+file.0=C\:\\Users\\orlan\\Desktop\\5to Semestre\\apds\\Ayala PDV Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6d0f772b46259b5f4c8fe316ef036b4e2de1c0e\\classes.dex
